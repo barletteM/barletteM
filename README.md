@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @barletteM
+- 👋 Hi, I’m barlette makuwe
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on innovative technology
